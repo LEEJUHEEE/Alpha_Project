@@ -1,4 +1,5 @@
 # Alpha_Project
+https://github.com/LEEJUHEEE/Alpha_Project
 ## 프로젝트 개요
 #### * Matlab Simulink에서 예제를 활용하여 Reinforcement Learning을 활용한 Lane Change 모델을 구현
 #### * 기존 알고리즘을 통해 차선 변경 하던 모델을 강화학습 block으로 대체   
